@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dsa.iml" filepath="$PROJECT_DIR$/Dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dyanamic Prog/Dyanamic Prog.iml" filepath="$PROJECT_DIR$/Dyanamic Prog/Dyanamic Prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/Tcs/Tcs.iml" filepath="$PROJECT_DIR$/codes/Tcs/Tcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/codes.iml" filepath="$PROJECT_DIR$/codes/codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codes/wipro/wipro.iml" filepath="$PROJECT_DIR$/codes/wipro/wipro.iml" />
+    </modules>
+  </component>
+</project>
